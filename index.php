@@ -110,7 +110,7 @@ $teacher->updateTeacher();
 			
 			 
 		var classid = $(this).attr("id");
-		alert(classid)
+		
 		var action = 'gettecher';
 		$.ajax({
 			url:'action.php',

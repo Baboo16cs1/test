@@ -28,9 +28,7 @@ $course->addenrolment();
 	<div class="row">
     <div class="col-md-4">
 		<div class="form_main">
-			<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal1">
- Add Enrolment
-</button>
+			
                 <h4 class="heading"><strong>Create </strong> Course <span></span></h4>
                 <div class="form">
                 <form action="" method="post" id="contactFrm" name="contactFrm">
